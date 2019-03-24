@@ -1,0 +1,23 @@
+{
+  "name": "ApiTesting",
+  "version": "1.0.0",
+  "description": "Been-API playground for learning api concepts, before attempting to place them into my Been-API project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewhite1/ApiTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewhite1/ApiTesting/issues"
+  },
+  "homepage": "https://github.com/ewhite1/ApiTesting#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
